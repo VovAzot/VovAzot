@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hello there! 👋
 
-<!--
-**VovAzot/VovAzot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Vladimir Zotov, and I'm passionate about Data Science, new technologies, history and geography. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning NLP.
+- 🔭 I’m working on Medical projects in Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## Skills
+**Soft Skills:**
+- Analytic mind
+- Critical thinking
+- Team player
+- Mentor
+
+**Technical Skills:**
+- Python
+- SQL
+- PyTorch
+- TensorFlow
+- Git
+ 
+## Connect with Me
+
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/vladimir-zotov-5096a822b/)
+- Telegram: [@vvzotov](https://t.me/vvzotov)
+
+Feel free to explore my repositories and don't hesitate to connect. Let's collaborate and learn together! 🚀
+
