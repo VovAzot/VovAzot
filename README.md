@@ -2,8 +2,8 @@
 
 My name is Vladimir Zotov, and I'm passionate about Data Science, new technologies, history and geography. Welcome to my GitHub profile!
 
-- 🌱 I’m currently learning NLP.
-- 🔭 I’m working on Medical projects in Data Science.
+- 🌱 I’m currently learning ML engineering
+
 
 
 
@@ -13,7 +13,6 @@ My name is Vladimir Zotov, and I'm passionate about Data Science, new technologi
 - Analytic mind
 - Critical thinking
 - Team player
-- Mentor
 
 **Technical Skills:**
 - Python
